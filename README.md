@@ -1,3 +1,3 @@
-# trading_bots
+# Trading Robot Generation 1
 
-https://www.youtube.com/watch?v=8mjDoR6_ImQ
+Welcome to my first trading robot
